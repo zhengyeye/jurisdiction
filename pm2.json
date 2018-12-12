@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "jurisdiction",
+    "script": "production.js",
+    "cwd": "E:\myproject\jurisdiction\jurisdiction",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
